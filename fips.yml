@@ -3,9 +3,9 @@
 
 imports:
      fips-googletest:
-         git: https://github.com/mgerhardy/fips-googletest.git
+         git: https://github.com/fips-libs/fips-googletest.git
      fips-zlib:
-         git: https://github.com/floooh/fips-zlib.git
+         git: https://github.com/fips-libs/fips-zlib.git
 
 exports:
     header-dirs:
